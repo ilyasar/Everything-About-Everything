@@ -1,0 +1,48 @@
+body{
+    background-color: grey;
+}
+.main{
+    background-color: white;
+    width: calc(100% - 310px);
+    display: inline-block;
+}
+.title{
+    text-align: center;
+}
+.why-me{
+    background-color: green;
+    margin-left: 90px;
+    width: 300px;
+    color: white;
+    display: inline-block;
+}
+.what-can-i-do{
+    background-color: blue;
+    width: 300px;
+    color: white;
+    display: inline-block;
+    margin-left: 100px;
+}
+.how-contact{
+    background-color: yellow;
+    width: 300px;
+    color: black;
+    display: inline-block;
+    margin-left: 90px;
+}
+.my-sites{
+    background-color: red;
+    width: 300px;
+    color: white;
+    display: inline-block;
+    margin-left: 100px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+nav{
+    float: right;
+    display: inline-block;
+    border-style: solid;
+    width: 300px;
+    background-color: white;
+}
