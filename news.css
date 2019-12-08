@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+}
+main{
+    background-color: white;
+    width: calc(100% - 330px);
+    display: inline-block;
+}
+body{
+    background-color: grey;
+}
+nav{
+    float: right;
+    display: inline-block;
+    border-style: solid;
+    width: 300px;
+    background-color: white;
+    padding-bottom: 300px;
+    
+    padding-left: 20px;
+}
+.nav-title{
+    text-align: center;
+    background-color: cyan;
+    color: grey;
+    
+    margin-right: 30px;
+}
